@@ -1,2 +1,2 @@
 # kissan-bazar
-The e-portal for farmers goods and product selling an buying
+An e-portal for farmers goods and product selling and buying process
